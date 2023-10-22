@@ -42,6 +42,7 @@ C) GoogLeNet (Inception-V3)
 
     
 Problem Statement
+
 Goal: Train a Convolutional Neural Network (CNN) to classify the presence of tumors in fMRI brain images.
 Malignant brain tumors are relatively rare, but they account for a disproportionate number of cancer-related mortalities due to their low survival rate – only 1/3 of individuals survive 5+ years post-diagnosis (Miller et al., 2021).Therefore, identifying brain abnormalities as soon as possible is paramount for increasing a patient’s potential for survival. However, brain tumors are incredibly complex and difficult to diagnose. Beyond requiring functional magnetic resonance imaging (fMRI) to visualize and diagnose brain tumors, a professional neurosurgeon is usually required to interpret the output of MRI analysis. This challenge is in part due to large amounts of variation among the potential size and locations of brain tumors. Moreover, the degree of educational specialization required to become a neurosurgeon poses a significant obstacle for diagnosing brain tumors in developing countries. In sum, a new approach for diagnosing malignant brain tumors is necessary which circumvents the need for advanced medical training while prioritzing speed and accuracy.
 
