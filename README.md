@@ -1,6 +1,4 @@
-# DNN_TumorClassification
-
-Components of Python Notebook: 'fMRI_Tumor_DNN.ipynb'
+# Convolutional Neural Network (CNN) classification of tumor presence in fMRI brain images
 
 1) Problem Statement
 
