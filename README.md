@@ -10,22 +10,26 @@ A) Evaluate Computational Efficiency
 B) Load Packages
 C) Load Data
 D) Preprocess and Clean Data
+
 3) Exploratory Data Analysis (EDA)
 
 A) Insights from preliminary EDA
 B) Create TensorFlow Dataset
 C) Comparison of preliminary and final EDA
 D) Visualization of fMRI data
+
 4) Convolutional Neural Networks
 
 A) Model 1: Standard (Vanilla)
 B) Model 2: Standard + Google Brain (Strawberry)
 C) Model 3: Auto-encoder + Google Brain (Chocolate)
+
 5) Transfer Learning
 
 A) Best fitting model
 B) VGG-16
 C) GoogLeNet (Inception-V3)
+
 6) Ensemble Model
 
 7) Best Fitting Model - Saliency Map
