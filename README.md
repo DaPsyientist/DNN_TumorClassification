@@ -63,3 +63,4 @@ This dataset is freely available here: https://www.kaggle.com/datasets/ahmedhama
 The data is also available in this current Github Repo
 
 Click on my Python notebook to learn more!
+[View Notebook](./fMRI_Tumor_DNN.ipynb)
